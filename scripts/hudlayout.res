@@ -699,7 +699,7 @@
 		"xpos"		"c-100"
 		"ypos"		"c100"
 		"wide"	 	"200"
-		"tall"	 	"26"
+		"tall"	 	"36"
 		"priority"	"26"
 		"priority_lodef" "35"
 		
