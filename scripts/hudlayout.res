@@ -469,7 +469,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c09"
-		"ypos"	"r208"
+		"ypos"	"r211"
 		"wide"	"300" 
 		"tall"	"420"	
 	}
@@ -903,7 +903,7 @@
 		"IconScale"	  "0.35"
 		"LineHeight"	  "13"//14
 		"LineSpacing"	  "0"
-		"CornerRadius"	  "0"
+		"CornerRadius"	  "2"
 		"RightJustify"	  "1"	// If 1, draw notices from the right	
 
 		"TextFont"		"DeathNotice"//Segoe11
