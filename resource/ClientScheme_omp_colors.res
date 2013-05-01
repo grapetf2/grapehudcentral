@@ -47,7 +47,7 @@ Scheme
 		
 		"grapeUbercharging"		"125 225 30 255"
 		"grapeFullUber"			"0 255 0 200"
-	
+
 	
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -456,7 +456,7 @@ Scheme
 			"1"
 			{
 				"name"		"HelveticaRoman"
-				"tall"		"26"
+				"tall"		"32"
 				"weight"		"720"
 				"additive"	"0"
 				"antialias" "1"
@@ -467,7 +467,7 @@ Scheme
 			"1"
 			{
 				"name"		"HelveticaRoman"
-				"tall"		"26"
+				"tall"		"32"
 				"weight"		"720"
 				"additive"	"0"
 				"antialias" "1"
@@ -478,7 +478,7 @@ Scheme
 			"1"
 			{
 				"name"		"HelveticaRoman"
-				"tall"		"16"
+				"tall"		"18"
 				"weight"		"500"
 				"additive"	"0"
 				"antialias" "1"
